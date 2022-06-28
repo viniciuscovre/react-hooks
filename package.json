@@ -1,0 +1,20 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "Playground for the main hooks of the React JavaScript lib",
+  "main": "App.js",
+  "engines": {
+    "node": "16.15.1",
+    "npm": "8.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "react": "^18.2.0"
+  }
+}
