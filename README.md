@@ -10,7 +10,7 @@ Playground for the main hooks of the React JavaScript lib.
 ### Must Know Hooks
 
 - [x] useState
-- [ ] useEffect
+- [x] useEffect
 - [ ] useContext
 
 ### Lesser Used Hooks
