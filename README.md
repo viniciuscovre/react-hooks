@@ -11,7 +11,7 @@ Playground for the main hooks of the React JavaScript lib.
 
 - [x] useState
 - [x] useEffect
-- [ ] useContext
+- [x] useContext
 
 ### Lesser Used Hooks
 
